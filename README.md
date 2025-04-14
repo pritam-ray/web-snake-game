@@ -78,7 +78,7 @@ The built files will be in the `dist` directory.
 
 ## 👤 Author
 
-[Pritam Ray](https://github.com/your-github-username)
+[Pritam Ray](https://github.com/pritam-ray)
 
 ---
 
